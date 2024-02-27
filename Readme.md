@@ -3,7 +3,7 @@
 ### Este projeto tem o propósito de aprendermos a importância do git e github. 
 ### O git como controle de versão, sendo possível termos várias versões melhoradas do nosso projeto e o gitHub um repositório remoto para salvarmos nossos projetos e ter a liberdade de contribuições dos desenvolvedores envolvidos.
 *****************************************************************************************************************************************************************************
-###🛠️ Os principais comandos utilizados foram:
+### 🛠️ Os principais comandos utilizados foram:
 
 #### git init - para iniciar;
 #### git status - para verificar o local e o arquivo realizado;
