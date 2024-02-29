@@ -11,7 +11,7 @@
 #### git status - para verificar o local e o arquivo realizado;
 #### git add . - para adicionar, desfazer ou reverter as alterações realizadas;
 #### git commit - comando para inserir/salvar o projeto;
-#### git remote - para inserir o repositório criado no remoto (GitiHub);
+#### git remote - para inserir o repositório criado no remoto (GitHub);
 #### git push - para subir o porjeto no repositório remoto.
 *****************************************************************************************************************************************************************************
 ## 🤝 Contribuição:
